@@ -2,6 +2,7 @@
 🔭 I’m currently working on: end-to-end data solutions—from engineering complex SQL databases to deploying Flask-based NLP models.<br><br>🌱 I’m currently learning: advanced NLP techniques (like Transformers) and cloud deployment to scale my predictive models.<br><br>👯 I’m looking to collaborate on: open-source machine learning projects and data-driven business intelligence dashboards.<br><br>💬 Ask me about: Python (Pandas/NumPy), crafting complex SQL queries (CTEs & Window Functions), and Power BI visual storytelling.<br><br>📫 How to reach me: Send me a message on LinkedIn! I am actively open to Data Science and Machine Learning opportunities.<br><br>⚡ Fun fact: They say 80% of Data Science is just cleaning data—but I actually enjoy taming messy, real-world datasets into actionable insights! 🧹📊
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-girhe-s25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohitgirhe25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitgwork0@gmail.com) 
 
